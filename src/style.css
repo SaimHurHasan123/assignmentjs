@@ -1,0 +1,39 @@
+#wrapper {
+    margin-left:1%;
+    margin-top: 2%;
+    
+    height: 30%;
+    width:80%;
+    text-align: center;
+    padding: 38px 3px;
+
+}
+#sec1 {
+    margin: 8px 2px;
+    padding:10px 20px;
+    font-size: 20px;
+
+}
+#sec2 {
+    margin: 10px 10px;
+    padding:10px 0px 10px 10px;
+    font-size: 20px;
+
+}
+#sec3 {
+    margin: 10px 10px;
+    padding:10px 10px 10px 0px;
+    font-size: 20px;
+
+}
+#s1 {
+    margin: 10px 10px 10px -76px;
+    padding:10px 16px 10px 17px;
+    font-size:20px;
+
+}
+#result {
+    
+    font-size: 20px;
+    margin-left: 260px;
+}
